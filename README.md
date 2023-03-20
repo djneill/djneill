@@ -7,9 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/codingguitarist" target="blank"><img src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge" alt="codingguitarist" /></a> </p>
 
+<p align="center>
 - 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)
 
 - 📄 Know about my experiences [https://bit.ly/42syQ9C](https://bit.ly/42syQ9C)
+          </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
