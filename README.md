@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djneill" alt="djneill" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/codingguitarist" target="blank"><img src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge" alt="codingguitarist" /></a> </p>
+<p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge" alt="codingguitarist" /></a> </p>
 
 
 <p align="center">- 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)</p>
