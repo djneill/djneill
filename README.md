@@ -1,23 +1,21 @@
 <img src=" images/githubBanner2.jpg">
-<!--     <h1 align="center">Hi 👋, I'm DJ Neill</h1>
+<<<<<<< HEAD
+    <!-- <h1 align="center">Hi 👋, I'm DJ Neill</h1>
     <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
+=======
+>>>>>>> 89fd162fad357330dfdd09ad1e20fc12bac409bd
 
-<p align="center"> <img
-            src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat"
-            alt="djneill" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat" alt="djneill" /> </p>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=djneill" alt="djneill" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=djneill" alt="djneill" /></a> </p>
 
-   <p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img
-                src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge"
-                alt="codingguitarist" /></a> </p>
-
+   <p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank">
+   <img src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge" alt="codingguitarist" /></a> </p>
 
    <p align="center">- 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)</p>
 
    <p align="center">- 📄 Know about my experiences [https://bit.ly/42syQ9C](https://bit.ly/42syQ9C)</p>
-
 
    <h3 align="center">Connect with me:</h3>
    <p align="center">
@@ -55,17 +53,24 @@
 
    <h1 align="center">Projects</h1>
     <table bordercolor="#66b2b2">
+<<<<<<< HEAD
+
+  <tr>
+      <td width="50%" valign="top">
+            <h3 align="center">djneill.com</h3>
+            <br />
+=======
          <tr>
             <td width="50%" valign="top">
                 <h3 align="center">djneill.com</h3>
                 <br />
+>>>>>>> 89fd162fad357330dfdd09ad1e20fc12bac409bd
                 <a target="_blank" href="https://djneill.com/">
                     <img src="images/portfolio.gif" width="100%" alt="Portfolio page" />
                 </a>
                 <br />
                 <p align="center">
-
-                    <a href="https://github.com/djneill/djneill-Portfolio" target="_blank">
+                     <a href="https://github.com/djneill/djneill-Portfolio" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
@@ -77,6 +82,17 @@
                 <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - Portfolio page with projects and a contact form
                     to get in touch.</p>
             </td>
+<<<<<<< HEAD
+
+<td width="50%" valign="top">
+            <h3 align="center">Island Grinds</h3>
+            <br />
+            <a target="_blank" href="https://808project.netlify.app/">
+                <img src="images/808.gif" width="100%" alt="Island Grinds" />
+            </a>
+            <br />
+            <p align="center">
+=======
              
                 <td width="50%" valign="top">
                 <h3 align="center">Island Grinds</h3>
@@ -86,8 +102,9 @@
                 </a>
                 <br />
                 <p align="center">
+>>>>>>> 89fd162fad357330dfdd09ad1e20fc12bac409bd
 
-                    <a href="https://github.com/djneill/islandGrinds" target="_blank">
+            <a href="https://github.com/djneill/islandGrinds" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
@@ -102,7 +119,7 @@
             </td>
         </tr>
 
-        <tr>
+  <tr>
             <td width="50%" valign="top">
                 <h3 align="center">Parada Restoration</h3>
                 <br />
@@ -123,7 +140,7 @@
                 <p><strong>HTML5, CSS3, Javascript & Bootstrap</strong> - Client website for a pressure washing company.</p>
             </td>
 
-            <td width="50%" valign="top">
+ <td width="50%" valign="top">
                 <h3 align="center">Temple Astronomy Society</h3>
                 <br />
                 <a target="_blank" href="https://templeastronomysociety.netlify.app/">
@@ -132,7 +149,7 @@
                 <br />
                 <p align="center">
 
-                    <a href="https://github.com/djneill/AstronomyWebApp" target="_blank">
+  <a href="https://github.com/djneill/AstronomyWebApp" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
