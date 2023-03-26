@@ -31,7 +31,7 @@
       <h3 align="center">djneill.com</h3>
         <br />
         <a target="_blank" href="https://djneill.com/">
-            <img src="images/portfolio.gif" width="100%" alt="Portfolio page"/>
+            <img src="images/portfolio.gif" alt="Portfolio page"/>
         </a>
         <br />
         <p align="center">
