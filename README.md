@@ -31,7 +31,7 @@
       <h3 align="center">djneill.com</h3>
         <br />
         <a target="_blank" href="https://djneill.com/">
-            <img src="images/portfolio.gif" alt="Portfolio page"/>
+            <img src="images/portfolio.gif" width-"100%" alt="Portfolio page"/>
         </a>
         <br />
         <p align="center">
@@ -44,25 +44,25 @@
   </a>
       </p>
         <p><strong>HTML, CSS, Javascript, Bootstrap</strong> - Portfolio page with projects and a contact form to get in touch.</p>
-              
-    </td>
+              </td>
+            
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Island Grinds</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://808project.netlify.app/">
+            <img src="images/808.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="[https://codepen.io/ShawnBasquiat/full/bGVWpYw](https://808project.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>HTML, CSS, Javascript & Bootstrap</strong> - Website for a delicious local food truck, Hawaiian Ono Grinds.</p>
     </td>
   </tr>
   
