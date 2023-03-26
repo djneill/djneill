@@ -1,26 +1,26 @@
 <img src=" images/githubBanner2.jpg">
-<!--      <h1 align="center">Hi 👋, I'm DJ Neill</h1>
-    <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
+    <h1 align="center">Hi 👋, I'm DJ Neill</h1>
+    <h3 align="center">A passionate Full Stack Engineer from Texas</h3>
 
-    <p align="center"> <img
+<p align="center"> <img
             src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat"
             alt="djneill" /> </p>
 
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=djneill" alt="djneill" /></a> </p>
 
-    <p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img
+   <p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img
                 src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge"
                 alt="codingguitarist" /></a> </p>
 
 
-    <p align="center">- 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)</p>
+   <p align="center">- 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)</p>
 
-    <p align="center">- 📄 Know about my experiences [https://bit.ly/42syQ9C](https://bit.ly/42syQ9C)</p>
+   <p align="center">- 📄 Know about my experiences [https://bit.ly/42syQ9C](https://bit.ly/42syQ9C)</p>
 
 
-    <h3 align="center">Connect with me:</h3>
-    <p align="center">
+   <h3 align="center">Connect with me:</h3>
+   <p align="center">
         <a href="https://twitter.com/codingguitarist" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="codingguitarist" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
                 alt="https://www.linkedin.com/in/dj-neill/" height="30" width="40" /></a>
     </p>
 
-    <h3 align="center">Languages and Tools:</h3>
+   <h3 align="center">Languages and Tools:</h3>
     <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -53,7 +53,7 @@
             rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
                 height="40" /> </a> </p>
 
-    <h1 align="center">Projects</h1>
+   <h1 align="center">Projects</h1>
     <table bordercolor="#66b2b2">
 
         <tr>
@@ -147,13 +147,13 @@
         </tr>
     </table>
 
-    <p align="center"><img align="center"
+   <p align="center"><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact"
             alt="djneill" /></p>
 
-    <p align="center">&nbsp;<img align="center"
+   <p align="center">&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=djneill&show_icons=true&locale=en" alt="djneill" />
     </p>
 
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&"
+   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&"
             alt="djneill" /></p>
