@@ -1,4 +1,4 @@
-<img src="images.githubBanner.jpg">
+<img src="images/githubBanner.jpg">
 <h1 align="center">Hi 👋, I'm DJ Neill</h1>
 <h3 align="center">A passionate Full Stack Engineer from Texas</h3>
 
