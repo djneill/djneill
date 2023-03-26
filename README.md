@@ -1,6 +1,6 @@
 <img src=" images/githubBanner2.jpg">
-    <h1 align="center">Hi 👋, I'm DJ Neill</h1>
-    <h3 align="center">A passionate Full Stack Engineer from Texas</h3>
+<!--     <h1 align="center">Hi 👋, I'm DJ Neill</h1>
+    <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
 
 <p align="center"> <img
             src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat"
@@ -55,8 +55,7 @@
 
    <h1 align="center">Projects</h1>
     <table bordercolor="#66b2b2">
-
-        <tr>
+         <tr>
             <td width="50%" valign="top">
                 <h3 align="center">djneill.com</h3>
                 <br />
@@ -78,8 +77,8 @@
                 <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - Portfolio page with projects and a contact form
                     to get in touch.</p>
             </td>
-
-            <td width="50%" valign="top">
+             
+                <td width="50%" valign="top">
                 <h3 align="center">Island Grinds</h3>
                 <br />
                 <a target="_blank" href="https://808project.netlify.app/">
@@ -142,7 +141,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, & NASA POD API</strong> - The Temple astronomy society star gazing web app using NASA's picture of the day API</p>
+               <p><strong>HTML5, CSS3, & NASA POD API</strong> - The Temple astronomy society star gazing web app using NASA's picture of the day API</p>
             </td>
         </tr>
     </table>
