@@ -14,9 +14,9 @@
                 alt="codingguitarist" /></a> </p>
 
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://djneill.com/](https://djneill.com/)</p>
+<p align="center">- 👨‍💻 All of my projects are available at <a href="https://djneill.com/">djneill.com</a></p>
 
-<p align="center">- 📄 Know about my experiences [https://bit.ly/42syQ9C](https://bit.ly/42syQ9C)</p>
+<p align="center">- 📄 Know about my experiences <a href="https://docs.google.com/document/d/e/2PACX-1vRgYzFDGbsZ4jetPD1YukpDXDMLYJkGo7zPpxYKOuVl_Gm0AehmG-9FNBl7QXyZkQ/pub">Resume</a></p>
 
 
 <h3 align="center">Connect with me:</h3>
