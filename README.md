@@ -1,6 +1,24 @@
 <img src=" images/githubBanner2.jpg">
     <!-- <h1 align="center">Hi 👋, I'm DJ Neill</h1>
     <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
+    
+<p align="center">
+  <a href="https://djneill.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dj-neill/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/CodingGuitarist" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://wellfound.com/u/dj-neill" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vRgYzFDGbsZ4jetPD1YukpDXDMLYJkGo7zPpxYKOuVl_Gm0AehmG-9FNBl7QXyZkQ/pub" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <p align="center"> <img
             src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat"
