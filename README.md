@@ -32,7 +32,7 @@
                 alt="codingguitarist" /></a> </p>
 
 
-<p align="center">- 👨‍💻 All of my projects are available at <a href="https://djneill.com/">djneill.com</a></p>
+<p align="center">- 👨‍💻 View my portfolio page at <a href="https://djneill.com/">djneill.com</a></p>
 
 <p align="center">- 📄 Know about my experiences <a href="https://docs.google.com/document/d/e/2PACX-1vRgYzFDGbsZ4jetPD1YukpDXDMLYJkGo7zPpxYKOuVl_Gm0AehmG-9FNBl7QXyZkQ/pub">Resume</a></p>
 
