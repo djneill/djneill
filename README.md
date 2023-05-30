@@ -151,7 +151,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Aswesome, Node.js, Express, MVC paradigm</strong> - Todo Task List with an integrated pomodoro timer.
+                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Aswesome, Node.js, Express, Passport.js, MVC paradigm</strong> - Todo Task List with an integrated pomodoro timer.
                 </p>
             </td>
 
