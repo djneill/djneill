@@ -25,7 +25,7 @@
             alt="djneill" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=djneill" alt="djneill" /></a> </p>
+                src="https://github-profile-trophy.vercel.app/?username=djneill&" alt="djneill" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img
                 src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge"
@@ -181,11 +181,11 @@
     </table>
 
 <p align="center"><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true"
             alt="djneill" /></p>
 
 <p align="center">&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=djneill&show_icons=true&locale=en" alt="djneill" />
+            src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&locale=en" alt="djneill" />
     </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&" alt="djneill" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&theme=github_dark" alt="djneill" /></p>
