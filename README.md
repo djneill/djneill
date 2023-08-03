@@ -178,6 +178,29 @@
                     NASA's picture of the day API</p>
             </td>
         </tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+    <h3 align="center">Let's Cook</h3>
+    <br />
+     <a target="_blank" href="https://letscook.cyclic.app/">
+                    <img src="images/onegif2.gif" width="100%" alt="Portfolio page" />
+    </a>
+    <br />
+    <p align="center">
+
+<a href="https://github.com/djneill/Lets-Cook-MVP" target="_blank">
+            <img
+                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://letscook.cyclic.app/" target="_blank">
+            <img
+                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
+        </a>
+    </p>
+     <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
+</td>
+</tr>
     </table>
 
 <p align="center"><img align="center"
