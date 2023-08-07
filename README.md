@@ -110,28 +110,26 @@
                     to get in touch.</p>
 </td>
 
-<td width="50%" valign="top">
-                <h3 align="center">Island Grinds</h3>
-                <br />
-                <a target="_blank" href="https://808project.netlify.app/">
-                    <img src="images/808.gif" width="100%" alt="Island Grinds" />
-                </a>
-                <br />
-                <p align="center">
+<td width="50%" align="center" valign="top">
+    <h3 align="center">Let's Cook</h3>
+    <br />
+     <a target="_blank" href="https://letscook.cyclic.app/">
+                    <img src="images/onegif2.gif" width="100%" alt="Portfolio page" />
+    </a>
+    <br />
+    <p align="center">
 
-<a href="https://github.com/djneill/islandGrinds" target="_blank">
-                        <img
+<a href="https://github.com/djneill/Lets-Cook-MVP" target="_blank">
+            <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-                    </a>
-                    <a href="https://808project.netlify.app/"
-                        target="_blank">
-                        <img
+        </a>
+        <a href="https://letscook.cyclic.app/" target="_blank">
+            <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-                    </a>
-                </p>
-                <p><strong>HTML5, CSS3, Javascript & Bootstrap</strong> - Website for a delicious local food truck,
-                    Hawaiian Ono Grinds.</p>
-            </td>
+        </a>
+    </p>
+     <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js, MVC paradigm</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
+</td>
         </tr>
 
 <tr>
@@ -157,6 +155,30 @@
             </td>
 
 <td width="50%" valign="top">
+                <h3 align="center">Brand Detector</h3>
+                <br />
+                <a target="_blank" href="https://branddetector.onrender.com/">
+                    <img src="images/Brand-Detector.gif" width="100%" alt="Brand Detector" />
+                </a>
+                <br />
+                <p align="center">
+
+<a href="https://github.com/djneill/Brand-Detector" target="_blank">
+                        <img
+                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
+                    </a>
+                    <a href="https://branddetector.onrender.com/" target="_blank">
+                        <img
+                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
+                    </a>
+                </p>
+                <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express.js & Microsoft Azure Cognitive Services </strong> - Brand Detector is a web app that can analyze images and will respond with the level of confidence for the brand it has detected.</p>
+            </td>
+        </tr>
+
+<tr>
+
+<td width="50%" valign="top">
                 <h3 align="center">Temple Astronomy Society</h3>
                 <br />
                 <a target="_blank" href="https://templeastronomysociety.netlify.app/">
@@ -177,29 +199,29 @@
                 <p><strong>HTML5, CSS3, & NASA POD API</strong> - The Temple astronomy society star gazing web app using
                     NASA's picture of the day API</p>
             </td>
-        </tr>
 
-<tr>
-<td width="50%" align="center" valign="top">
-    <h3 align="center">Let's Cook</h3>
-    <br />
-     <a target="_blank" href="https://letscook.cyclic.app/">
-                    <img src="images/onegif2.gif" width="100%" alt="Portfolio page" />
-    </a>
-    <br />
-    <p align="center">
+<td width="50%" valign="top">
+                <h3 align="center">Island Grinds</h3>
+                <br />
+                <a target="_blank" href="https://808project.netlify.app/">
+                    <img src="images/808.gif" width="100%" alt="Island Grinds" />
+                </a>
+                <br />
+                <p align="center">
 
-<a href="https://github.com/djneill/Lets-Cook-MVP" target="_blank">
-            <img
+<a href="https://github.com/djneill/islandGrinds" target="_blank">
+                        <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://letscook.cyclic.app/" target="_blank">
-            <img
+                    </a>
+                    <a href="https://808project.netlify.app/"
+                        target="_blank">
+                        <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-     <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js, MVC paradigm</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
-</td>
+                    </a>
+                </p>
+                <p><strong>HTML5, CSS3, Javascript & Bootstrap</strong> - Website for a delicious local food truck,
+                    Hawaiian Ono Grinds.</p>
+            </td>
 </tr>
     </table>
 
