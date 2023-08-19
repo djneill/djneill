@@ -34,7 +34,7 @@
 
 <p align="center">- 👨‍💻 View my portfolio page at <a href="https://djneill.com/">djneill.com</a></p>
 
-<p align="center">- 📄 Know about my experiences <a href="https://docs.google.com/document/d/e/2PACX-1vRgYzFDGbsZ4jetPD1YukpDXDMLYJkGo7zPpxYKOuVl_Gm0AehmG-9FNBl7QXyZkQ/pub">Resume</a></p>
+<p align="center">- 📄 Know about my experiences <a href="https://docs.google.com/document/d/e/2PACX-1vSR0KQIW1IbQB2g0SnmGFy86HAe2fapBvWa37PnEMr6VDD-On3fVu2T-XL9Hh05hQ/pub">Resume</a></p>
 
 
 <h3 align="center">Connect with me:</h3>
