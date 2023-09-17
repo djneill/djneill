@@ -15,7 +15,7 @@
   <a href="https://wellfound.com/u/dj-neill" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/e/2PACX-1vSXeIs8lGQK0myR0U4LEZGxiPdhiIsNNsROrL9DMOni4RIccR-bWSUCqCVv4O90Rg/pub" target="_blank">
+  <a href="https://docs.google.com/document/d/e/2PACX-1vQ3bcMsDEj0sfUxr1R492GiSGftB_Q2ZN0UzFZ9PdqPXIal09hSUZXfANtKZFoFpHwLdnBXXPleK16U/pub" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
