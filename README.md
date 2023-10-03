@@ -203,26 +203,25 @@
             </td>
 
 <td width="50%" valign="top">
-                <h3 align="center">Island Grinds</h3>
+                <h3 align="center">Film Flix</h3>
                 <br />
-                <a target="_blank" href="https://808project.netlify.app/">
-                    <img src="images/808.gif" width="100%" alt="Island Grinds" />
+                <a target="_blank" href="https://film-flix-opal.vercel.app/">
+                    <img src="images/filmflix2.gif" width="100%" alt="Film Flix Gif" />
                 </a>
                 <br />
                 <p align="center">
 
-<a href="https://github.com/djneill/islandGrinds" target="_blank">
+<a href="https://github.com/djneill/FilmFlix" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://808project.netlify.app/"
+                    <a href="https://film-flix-opal.vercel.app/"
                         target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, Javascript & Bootstrap</strong> - Website for a delicious local food truck,
-                    Hawaiian Ono Grinds.</p>
+                <p><strong>React, Tailwind CSS, Typescript, React-Icons, Hero-Icons, Next.js, Next-Auth, MongoDB, Prisma, Axios, Toastify, Photoshop</strong> - Movie trailer app that replicates Netflix.</p>
             </td>
 </tr>
     </table>
