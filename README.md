@@ -68,7 +68,7 @@
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,photoshop,vercel,netlify&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,photoshop,figma,vercel,netlify&theme=dark" />
   </a>
 </p>
     
