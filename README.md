@@ -62,7 +62,13 @@
 <h3 align="center">Libraries:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,express,mongodb,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tailwind,express,bootstrap&theme=dark" />
+  </a>
+</p>
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql&theme=dark" />
   </a>
 </p>
 <h3 align="center">Tools:</h3>
