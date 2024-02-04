@@ -86,7 +86,7 @@
     <h3 align="center">djneill.com</h3>
     <br />
      <a target="_blank" href="https://djneill.com/">
-                    <img src="images/portfolio.gif" width="100%" alt="Portfolio page" />
+                    <img src="images/portfoliopage.gif" width="100%" alt="Portfolio page" />
     </a>
     <br />
     <p align="center">
@@ -100,7 +100,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
         </a>
     </p>
-     <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - Portfolio page with projects and a contact form
+     <p><strong>Javascript, React.js, Next.js, Tailwind CSS</strong> - Portfolio page with projects and a contact form
                     to get in touch.</p>
 </td>
 
