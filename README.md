@@ -91,7 +91,7 @@
     <br />
     <p align="center">
 
-<a href="https://github.com/djneill/djneill-Portfolio" target="_blank">
+<a href="https://github.com/djneill/React-Portfolio" target="_blank">
             <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
         </a>
