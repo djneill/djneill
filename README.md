@@ -56,7 +56,7 @@
 <h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,next,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,next,vite,astro&theme=dark" />
   </a>
 </p>
 <h3 align="center">Libraries:</h3>
