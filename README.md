@@ -1,4 +1,4 @@
-<img src="images/blueshapebanner.png">
+<img src="images/banner_dark.png">
     <!-- <h1 align="center">Hi 👋, I'm DJ Neill</h1>
     <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
     
@@ -50,7 +50,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
