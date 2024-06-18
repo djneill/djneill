@@ -122,7 +122,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
         </a>
     </p>
-     <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js, MVC paradigm</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
+    <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js, MVC paradigm</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
 </td>
         </tr>
 
@@ -195,25 +195,25 @@
             </td>
 
 <td width="50%" valign="top">
-                <h3 align="center">Film Flix</h3>
+                <h3 align="center">Gemini Coding Buddy</h3>
                 <br />
-                <a target="_blank" href="https://film-flix-opal.vercel.app/">
-                    <img src="images/filmflix2.gif" width="100%" alt="Film Flix Gif" />
+                <a target="_blank" href="https://gemini-coding-buddy.onrender.com/">
+                    <img src="images/GCB.gif" width="100%" alt="Gemini Coding Buddy Gif" />
                 </a>
                 <br />
                 <p align="center">
 
-<a href="https://github.com/djneill/FilmFlix" target="_blank">
+<a href="https://github.com/djneill/Gemini-Node-Coding-Buddy" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://film-flix-opal.vercel.app/"
+                    <a href="https://gemini-coding-buddy.onrender.com/"
                         target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>React, Tailwind CSS, Typescript, React-Icons, Hero-Icons, Next.js, Next-Auth, MongoDB, Prisma, Axios, Toastify, Photoshop</strong> - Movie trailer app that replicates Netflix.</p>
+                <p><strong>React, Tailwind CSS, Typescript, Node.js, Express.js, React-Markdown, React-gfm plugin, Google's Gemini API</strong> - The Gemini Coding Buddy is a fine-tuned AI model to give hints, tips, and methods that empower users to reach solutions on their own, fostering learning and problem-solving skills.</p>
             </td>
 </tr>
     </table>
