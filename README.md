@@ -144,7 +144,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Aswesome, Node.js, Express, Passport.js, MongoDB, Mongoose, MVC paradigm</strong> - Todo Task List with an integrated pomodoro timer.
+                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Awesome, Node.js, Express, Passport.js, MongoDB, Mongoose, MVC paradigm</strong> - Todo Task List with an integrated Pomodoro timer.
                 </p>
             </td>
 
@@ -191,7 +191,7 @@
                     </a>
                 </p>
                 <p><strong>HTML5, CSS3, & NASA POD API</strong> - The Temple astronomy society star gazing web app using
-                    NASA's picture of the day API</p>
+                    NASA's Picture of the Day API</p>
             </td>
 
 <td width="50%" valign="top">
@@ -213,7 +213,7 @@
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>React, Tailwind CSS, Typescript, Node.js, Express.js, React-Markdown, React-gfm plugin, Google's Gemini API</strong> - The Gemini Coding Buddy is a fine-tuned AI model to give hints, tips, and methods that empower users to reach solutions on their own, fostering learning and problem-solving skills.</p>
+                <p><strong>React, Tailwind CSS, Typescript, Node.js, Express.js, React-Markdown, React-gfm plugin, Google's Gemini API</strong> - The Gemini Coding Buddy is a fine-tuned AI model that gives hints, tips, and methods that empower users to reach solutions independently, fostering learning and problem-solving skills.</p>
             </td>
 </tr>
     </table>
