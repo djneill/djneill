@@ -173,25 +173,24 @@
 <tr>
 
 <td width="50%" valign="top">
-                <h3 align="center">Temple Astronomy Society</h3>
+                <h3 align="center">Dev Search</h3>
                 <br />
-                <a target="_blank" href="https://templeastronomysociety.netlify.app/">
-                    <img src="images/nasa.gif" width="100%" alt="Star Gazing" />
+                <a target="_blank" href="https://dev-search-github.vercel.app/">
+                    <img src="images/devhunt.gif" width="100%" alt="dev search app" />
                 </a>
                 <br />
                 <p align="center">
 
-<a href="https://github.com/djneill/AstronomyWebApp" target="_blank">
+<a href="https://github.com/djneill/dev-search" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://templeastronomysociety.netlify.app/" target="_blank">
+                    <a href="https://dev-search-github.vercel.app/" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, & NASA POD API</strong> - The Temple astronomy society star gazing web app using
-                    NASA's Picture of the Day API</p>
+                <p><strong>Typescript, Next.js, React, Tailwind CSS, GitHub API</strong> - Dev Search is a web application that allows users to search for GitHub profiles and view detailed information about developers. Users can search for any GitHub username, view their profile information, and toggle between light and dark themes.</p>
             </td>
 
 <td width="50%" valign="top">
