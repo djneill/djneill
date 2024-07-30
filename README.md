@@ -128,49 +128,25 @@
 
 <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Git 'er Done Pomodoro List</h3>
+                <h3 align="center">Password Generator</h3>
                 <br />
-                <a target="_blank" href="https://giterdonepomodoro.onrender.com/">
-                    <img src="images/fitTodo.gif" width="100%" alt="Pomodoro List" />
+                <a target="_blank" href="https://beautiful-password-generator.vercel.app/">
+                    <img src="images/PG.gif" width="100%" alt="password generator" />
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://github.com/djneill/MVC-Group-Project" target="_blank">
+                    <a href="https://github.com/djneill/password-generator" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://giterdonepomodoro.onrender.com/" target="_blank">
+                    <a href="https://beautiful-password-generator.vercel.app/" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Awesome, Node.js, Express, Passport.js, MongoDB, Mongoose, MVC paradigm</strong> - Todo Task List with an integrated Pomodoro timer.
+                <p><strong>Typescript, Next.js, React, and Tailwind CSS</strong> - This project is a web-based password generator, it allows users to generate secure passwords with customizable options.
                 </p>
             </td>
-
-<td width="50%" valign="top">
-                <h3 align="center">Brand Detector</h3>
-                <br />
-                <a target="_blank" href="https://branddetector.onrender.com/">
-                    <img src="images/Brand-Detector.gif" width="100%" alt="Brand Detector" />
-                </a>
-                <br />
-                <p align="center">
-
-<a href="https://github.com/djneill/Brand-Detector" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-                    </a>
-                    <a href="https://branddetector.onrender.com/" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-                    </a>
-                </p>
-                <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express.js & Microsoft Azure Cognitive Services </strong> - Brand Detector is a web app that can analyze images and will respond with the level of confidence for the brand it has detected.</p>
-            </td>
-        </tr>
-
-<tr>
 
 <td width="50%" valign="top">
                 <h3 align="center">Dev Search</h3>
@@ -191,6 +167,30 @@
                     </a>
                 </p>
                 <p><strong>Typescript, Next.js, React, Tailwind CSS, GitHub API</strong> - Dev Search is a web application that allows users to search for GitHub profiles and view detailed information about developers. Users can search for any GitHub username, view their profile information, and toggle between light and dark themes.</p>
+            </td>
+        </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+                <h3 align="center">Git 'er Done Pomodoro List</h3>
+                <br />
+                <a target="_blank" href="https://giterdonepomodoro.onrender.com/">
+                    <img src="images/fitTodo.gif" width="100%" alt="Pomodoro List" />
+                </a>
+                <br />
+                <p align="center">
+                    <a href="https://github.com/djneill/MVC-Group-Project" target="_blank">
+                        <img
+                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
+                    </a>
+                    <a href="https://giterdonepomodoro.onrender.com/" target="_blank">
+                        <img
+                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
+                    </a>
+                </p>
+                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Awesome, Node.js, Express, Passport.js, MongoDB, Mongoose, MVC paradigm</strong> - Todo Task List with an integrated Pomodoro timer.
+                </p>
             </td>
 
 <td width="50%" valign="top">
