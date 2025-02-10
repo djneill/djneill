@@ -50,7 +50,7 @@
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css&theme=dark" />
   </a>
 </p>
 <h3 align="center">Frameworks:</h3>
