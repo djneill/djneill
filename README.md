@@ -83,25 +83,24 @@
 
 <tr>
 <td width="50%" valign="top">
-    <h3 align="center">djneill.com</h3>
+    <h3 align="center">Tenant Pro</h3>
     <br />
-     <a target="_blank" href="https://djneill.com/">
-                    <img src="images/portfoliopage.gif" width="100%" alt="Portfolio page" />
+     <a target="_blank" href="https://apartmentmanager-hpcudda3hjfth3cu.canadacentral-01.azurewebsites.net/">
+                    <img src="images/Screen Shot 2025-04-05 at 3.28.42 PM.png" width="100%" alt="Tenant Dashboard" />
     </a>
     <br />
     <p align="center">
 
-<a href="https://github.com/djneill/React-Portfolio" target="_blank">
+<a href="https://github.com/djneill/apartment_portal" target="_blank">
             <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
         </a>
-        <a href="https://djneill.com/" target="_blank">
+        <a href="https://apartmentmanager-hpcudda3hjfth3cu.canadacentral-01.azurewebsites.net/" target="_blank">
             <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
         </a>
     </p>
-     <p><strong>Javascript, React.js, Next.js, Tailwind CSS, Netlify</strong> - Portfolio page with projects and a contact form
-                    to get in touch.</p>
+     <p><strong>Typescript, React, Tailwind CSS, ASP.NET, PostgreSQL, Supabase, Figma</strong> - Tenant Pro is a comprehensive apartment management platform that transforms the tenant experience through smart technology integration. The platform provides a centralized dashboard where tenants can manage their living space with features including smart lock controls, package management, guest access, maintenance requests, and thermostat controls. Built with modern technologies like TypeScript, React, and ASP.NET, Tenant Pro streamlines daily living tasks while enhancing security and convenience. The platform's intuitive interface and real-time notifications ensure tenants stay connected to their home, whether they're managing deliveries, controlling their smart lock, or reporting maintenance issues.</p>
 </td>
 
 <td width="50%" align="center" valign="top">
@@ -128,25 +127,26 @@
 
 <tr>
             <td width="50%" valign="top">
-                <h3 align="center">Password Generator</h3>
-                <br />
-                <a target="_blank" href="https://beautiful-password-generator.vercel.app/">
-                    <img src="images/PG.gif" width="100%" alt="password generator" />
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://github.com/djneill/password-generator" target="_blank">
-                        <img
+    <h3 align="center">djneill.com</h3>
+    <br />
+     <a target="_blank" href="https://djneill.com/">
+                    <img src="images/portfoliopage.gif" width="100%" alt="Portfolio page" />
+    </a>
+    <br />
+    <p align="center">
+
+<a href="https://github.com/djneill/React-Portfolio" target="_blank">
+            <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-                    </a>
-                    <a href="https://beautiful-password-generator.vercel.app/" target="_blank">
-                        <img
+        </a>
+        <a href="https://djneill.com/" target="_blank">
+            <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-                    </a>
-                </p>
-                <p><strong>Typescript, Next.js, React, and Tailwind CSS</strong> - This project is a web-based password generator, it allows users to generate secure passwords with customizable options.
-                </p>
-            </td>
+        </a>
+    </p>
+     <p><strong>Javascript, React.js, Next.js, Tailwind CSS, Netlify</strong> - Portfolio page with projects and a contact form
+                    to get in touch.</p>
+</td>
 
 <td width="50%" valign="top">
                 <h3 align="center">Dev Search</h3>
@@ -194,23 +194,23 @@
 </td>
 
 <td width="50%" valign="top">
-                <h3 align="center">Git 'er Done Pomodoro List</h3>
+                <h3 align="center">Password Generator</h3>
                 <br />
-                <a target="_blank" href="https://giterdonepomodoro.onrender.com/">
-                    <img src="images/fitTodo.gif" width="100%" alt="Pomodoro List" />
+                <a target="_blank" href="https://beautiful-password-generator.vercel.app/">
+                    <img src="images/PG.gif" width="100%" alt="password generator" />
                 </a>
                 <br />
                 <p align="center">
-                    <a href="https://github.com/djneill/MVC-Group-Project" target="_blank">
+                    <a href="https://github.com/djneill/password-generator" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
                     </a>
-                    <a href="https://giterdonepomodoro.onrender.com/" target="_blank">
+                    <a href="https://beautiful-password-generator.vercel.app/" target="_blank">
                         <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
                     </a>
                 </p>
-                <p><strong>HTML5, CSS3, EJS, Javascript, Bootstrap, Font Awesome, Node.js, Express, Passport.js, MongoDB, Mongoose, MVC paradigm</strong> - Todo Task List with an integrated Pomodoro timer.
+                <p><strong>Typescript, Next.js, React, and Tailwind CSS</strong> - This project is a web-based password generator, it allows users to generate secure passwords with customizable options.
                 </p>
             </td>
 </tr>
