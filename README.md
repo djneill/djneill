@@ -103,30 +103,7 @@
      <p><strong>Typescript, React, Tailwind CSS, ASP.NET, PostgreSQL, Supabase, Figma</strong> - Tenant Pro is a comprehensive apartment management platform that transforms the tenant experience through smart technology integration. The platform provides a centralized dashboard where tenants can manage their living space with features including smart lock controls, package management, guest access, maintenance requests, and thermostat controls. Built with modern technologies like TypeScript, React, and ASP.NET, Tenant Pro streamlines daily living tasks while enhancing security and convenience. The platform's intuitive interface and real-time notifications ensure tenants stay connected to their home, whether they're managing deliveries, controlling their smart lock, or reporting maintenance issues.</p>
 </td>
 
-<td width="50%" align="center" valign="top">
-    <h3 align="center">The Hangman Game</h3>
-    <br />
-     <a target="_blank" href="https://hangman-game-fun.vercel.app/">
-                    <img src="images/hangman.gif" width="100%" alt="Hangman Game Gif" />
-    </a>
-    <br />
-    <p align="center">
-
-<a href="https://github.com/djneill/hangman-game" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://hangman-game-fun.vercel.app/" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-    <p><strong>Next.js, React, TypeScript, and Tailwind CSS</strong> - This project is an interactive Hangman game. It features a responsive design, multiple word categories, and supports both on-screen and physical keyboard inputs for an engaging user experience.</p>
-</td>
-        </tr>
-
-<tr>
-            <td width="50%" valign="top">
+<td width="50%" valign="top">
     <h3 align="center">djneill.com</h3>
     <br />
      <a target="_blank" href="https://djneill.com/">
@@ -146,6 +123,30 @@
     </p>
      <p><strong>Javascript, React.js, Next.js, Tailwind CSS, Netlify</strong> - Portfolio page with projects and a contact form
                     to get in touch.</p>
+</td>
+        </tr>
+
+<tr>
+            
+<td width="50%" align="center" valign="top">
+    <h3 align="center">The Hangman Game</h3>
+    <br />
+     <a target="_blank" href="https://hangman-game-fun.vercel.app/">
+                    <img src="images/hangman.gif" width="100%" alt="Hangman Game Gif" />
+    </a>
+    <br />
+    <p align="center">
+
+<a href="https://github.com/djneill/hangman-game" target="_blank">
+            <img
+                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
+        </a>
+        <a href="https://hangman-game-fun.vercel.app/" target="_blank">
+            <img
+                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
+        </a>
+    </p>
+    <p><strong>Next.js, React, TypeScript, and Tailwind CSS</strong> - This project is an interactive Hangman game. It features a responsive design, multiple word categories, and supports both on-screen and physical keyboard inputs for an engaging user experience.</p>
 </td>
 
 <td width="50%" valign="top">
