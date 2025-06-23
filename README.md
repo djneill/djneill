@@ -176,7 +176,7 @@
 <td width="50%" align="center" valign="top">
     <h3 align="center">Let's Cook</h3>
     <br />
-     <a target="_blank" href="https://letscook.cyclic.app/">
+     <a target="_blank" href="https://lets-cook-mvp.onrender.com/">
                     <img src="images/onegif2.gif" width="100%" alt="Portfolio page" />
     </a>
     <br />
@@ -186,7 +186,7 @@
             <img
                             src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
         </a>
-        <a href="https://letscook.cyclic.app/" target="_blank">
+        <a href="https://lets-cook-mvp.onrender.com/" target="_blank">
             <img
                             src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
         </a>
