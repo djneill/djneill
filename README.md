@@ -27,7 +27,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=djneill&theme=dracula" alt="Profile Trophies" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/codingguitarist" target="_blank"><img
+<p align="center"> <a href="https://twitter.com/devsixstrings" target="_blank"><img
                 src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge"
                 alt="codingguitarist" /></a> </p>
 
