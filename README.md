@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/dj-neill/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/CodingGuitarist" target="_blank">
+  <a href="https://twitter.com/devsixstrings" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/dj-neill" target="_blank">
