@@ -28,8 +28,8 @@
                 src="https://github-profile-trophy.vercel.app/?username=djneill&theme=dracula" alt="Profile Trophies" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/devsixstrings" target="_blank"><img
-                src="https://img.shields.io/twitter/follow/codingguitarist?logo=twitter&style=for-the-badge"
-                alt="codingguitarist" /></a> </p>
+                src="https://img.shields.io/twitter/follow/devsixstrings?logo=twitter&style=for-the-badge"
+                alt="devsixstrings" /></a> </p>
 
 
 <p align="center">-👨‍💻 View my portfolio page at <a href="https://djneill.com/">djneill.com</a></p>
