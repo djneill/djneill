@@ -220,6 +220,7 @@
 <p align="center"><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true"
             alt="djneill" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djneill&theme=github_dark" /></p>
 
 <p align="center">&nbsp;<img align="center"
             src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&locale=en" alt="djneill" />
