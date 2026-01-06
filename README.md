@@ -1,229 +1,48 @@
-<img src="images/banner_dark.png">
-    <!-- <h1 align="center">Hi 👋, I'm DJ Neill</h1>
-    <h3 align="center">A passionate Full Stack Engineer from Texas</h3> -->
-    
+<div align="center">
+  <img src="images/banner_dark.png" alt="Banner">
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=CDF998&center=true&vCenter=true&repeat=true&width=600&lines=Full+Stack+Engineer;Guitarist+%F0%9F%8E%B8+%7C+Developer+%F0%9F%92%BB;Building+Modern+Web+Apps;React+%E2%80%A2+.NET+%E2%80%A2+TypeScript)](https://git.io/typing-svg)
+
+</div>
+
 <p align="center">
   <a href="https://djneill.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/dj-neill/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/devsixstrings" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://wellfound.com/u/dj-neill" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="images/GH Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
-<p align="center"> <img
-            src="https://komarev.com/ghpvc/?username=djneill&label=Profile%20views&color=0e75b6&style=flat"
-            alt="djneill" /> </p>
+<br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                src="https://github-profile-trophy.vercel.app/?username=djneill&theme=dracula" alt="Profile Trophies" /></a> </p>
+## Tech Stack
 
-<p align="center"> <a href="https://twitter.com/devsixstrings" target="_blank"><img
-                src="https://img.shields.io/twitter/follow/devsixstrings?logo=twitter&style=for-the-badge"
-                alt="devsixstrings" /></a> </p>
-
-
-<p align="center">-👨‍💻 View my portfolio page at <a href="https://djneill.com/">djneill.com</a></p>
-
-<p align="center">-📄 Know about my experiences <a href="images/GH Resume.pdf">Resume</a></p>
-
-
-<h3 align="center">Connect with me:</h3>
-    <p align="center">
-        <a href="https://twitter.com/devsixstrings" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-                alt="codingguitarist" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/https://www.linkedin.com/in/dj-neill/" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="https://www.linkedin.com/in/dj-neill/" height="30" width="40" /></a>
-    </p>
-
-<h3 align="center">Languages:</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,ts,js,cs,python,tailwind,express,mongodb,postgresql,vscode,git,figma,vercel&theme=dark&perline=8" />
   </a>
-</p>
-<h3 align="center">Frameworks:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,next,dotnet,vite,astro&theme=dark" />
-  </a>
-</p>
-<h3 align="center">Libraries:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,express,bootstrap&theme=dark" />
-  </a>
-</p>
-<h3 align="center">Databases:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql&theme=dark" />
-  </a>
-</p>
-<h3 align="center">Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,photoshop,figma,vercel,netlify&theme=dark" />
-  </a>
-</p>
-    
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+</div>
 
-<tr>
-<td width="50%" valign="top">
-    <h3 align="center">Tenant Pro</h3>
-    <br />
-     <a target="_blank" href="https://apartmentmanager-hpcudda3hjfth3cu.canadacentral-01.azurewebsites.net/">
-                    <img src="images/Screen Shot 2025-04-05 at 3.28.42 PM.png" width="100%" alt="Tenant Dashboard" />
-    </a>
-    <br />
-    <p align="center">
+<br>
 
-<a href="https://github.com/djneill/apartment_portal" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://apartmentmanager-hpcudda3hjfth3cu.canadacentral-01.azurewebsites.net/" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-     <p><strong>Typescript, React, Tailwind CSS, ASP.NET, PostgreSQL, Supabase, Figma</strong> - Tenant Pro is a comprehensive apartment management platform that transforms the tenant experience through smart technology integration. The platform provides a centralized dashboard where tenants can manage their living space with features including smart lock controls, package management, guest access, maintenance requests, and thermostat controls. Built with modern technologies like TypeScript, React, and ASP.NET, Tenant Pro streamlines daily living tasks while enhancing security and convenience. The platform's intuitive interface and real-time notifications ensure tenants stay connected to their home, whether they're managing deliveries, controlling their smart lock, or reporting maintenance issues.</p>
-</td>
+## GitHub Stats
 
-<td width="50%" valign="top">
-    <h3 align="center">djneill.com</h3>
-    <br />
-     <a target="_blank" href="https://djneill.com/">
-                    <img src="images/portfoliopage.gif" width="100%" alt="Portfolio page" />
-    </a>
-    <br />
-    <p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="170" />
+</div>
 
-<a href="https://github.com/djneill/React-Portfolio" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://djneill.com/" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-     <p><strong>Javascript, React.js, Next.js, Tailwind CSS, Netlify</strong> - Portfolio page with projects and a contact form
-                    to get in touch.</p>
-</td>
-        </tr>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<tr>
-            
-<td width="50%" align="center" valign="top">
-    <h3 align="center">The Hangman Game</h3>
-    <br />
-     <a target="_blank" href="https://hangman-game-fun.vercel.app/">
-                    <img src="images/hangman.gif" width="100%" alt="Hangman Game Gif" />
-    </a>
-    <br />
-    <p align="center">
-
-<a href="https://github.com/djneill/hangman-game" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://hangman-game-fun.vercel.app/" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-    <p><strong>Next.js, React, TypeScript, and Tailwind CSS</strong> - This project is an interactive Hangman game. It features a responsive design, multiple word categories, and supports both on-screen and physical keyboard inputs for an engaging user experience.</p>
-</td>
-
-<td width="50%" valign="top">
-                <h3 align="center">Dev Search</h3>
-                <br />
-                <a target="_blank" href="https://dev-search-github.vercel.app/">
-                    <img src="images/devhunt.gif" width="100%" alt="dev search app" />
-                </a>
-                <br />
-                <p align="center">
-
-<a href="https://github.com/djneill/dev-search" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-                    </a>
-                    <a href="https://dev-search-github.vercel.app/" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-                    </a>
-                </p>
-                <p><strong>Typescript, Next.js, React, Tailwind CSS, GitHub API</strong> - Dev Search is a web application that allows users to search for GitHub profiles and view detailed information about developers. Users can search for any GitHub username, view their profile information, and toggle between light and dark themes.</p>
-            </td>
-        </tr>
-
-<tr>
-
-<td width="50%" align="center" valign="top">
-    <h3 align="center">Let's Cook</h3>
-    <br />
-     <a target="_blank" href="https://lets-cook-mvp.onrender.com/">
-                    <img src="images/onegif2.gif" width="100%" alt="Portfolio page" />
-    </a>
-    <br />
-    <p align="center">
-
-<a href="https://github.com/djneill/Lets-Cook-MVP" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-        </a>
-        <a href="https://lets-cook-mvp.onrender.com/" target="_blank">
-            <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-        </a>
-    </p>
-    <p><strong>EJS, CSS3, Tailwind CSS, Javascript, Node.js, Express, MongoDB, Mongoose, Passport.js, MVC paradigm</strong> - Let's Cook is a full-stack web app where users can post their favorite recipes, search for new recipes, and save their favorite recipes to a collection that they can easily find.</p>
-</td>
-
-<td width="50%" valign="top">
-                <h3 align="center">Password Generator</h3>
-                <br />
-                <a target="_blank" href="https://beautiful-password-generator.vercel.app/">
-                    <img src="images/PG.gif" width="100%" alt="password generator" />
-                </a>
-                <br />
-                <p align="center">
-                    <a href="https://github.com/djneill/password-generator" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white" />
-                    </a>
-                    <a href="https://beautiful-password-generator.vercel.app/" target="_blank">
-                        <img
-                            src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" />
-                    </a>
-                </p>
-                <p><strong>Typescript, Next.js, React, and Tailwind CSS</strong> - This project is a web-based password generator, it allows users to generate secure passwords with customizable options.
-                </p>
-            </td>
-</tr>
-    </table>
-
-<p align="center"><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true"
-            alt="djneill" /></p>
-<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djneill&theme=github_dark&show_icons=true" /></p>
-
-<p align="center">&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&locale=en" alt="djneill" />
-    </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&theme=github_dark" alt="djneill" /></p>
