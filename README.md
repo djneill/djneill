@@ -18,9 +18,6 @@
   <a href="https://twitter.com/devsixstrings" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://wellfound.com/u/dj-neill" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
 </p>
 
 <br>
@@ -29,7 +26,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,ts,js,cs,python,tailwind,express,mongodb,postgresql,vscode,git,figma,vercel&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,ts,js,cs,vite,tailwind,express,mongodb,postgresql,vscode,git,figma,vercel&theme=dark&perline=8" />
   </a>
 </div>
 
