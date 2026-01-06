@@ -34,12 +34,14 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="170" />
-</div>
+<p align="center"><img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=djneill&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true"
+            alt="djneill" /></p>
+<p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djneill&theme=github_dark&show_icons=true" /></p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">&nbsp;<img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=djneill&theme=github_dark&show_icons=true&locale=en" alt="djneill" />
+    </p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djneill&theme=github_dark" alt="djneill" /></p>
 
